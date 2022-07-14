@@ -1,0 +1,26 @@
+### Hi there 👋
+
+<!--
+**whiteyod/whiteyod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<p>I am 25 years old, I am studying to be a front-end developer.<br>
+I like to draw pictures, ride a skateboard, spend a lot of time listening to music.<br>
+One of my hobbies is cybersecurity. I like working with servers, creating my own proxies and VPNs, deploying applications.</p>
+<p>At the moment I am studying the following technologies:</p>
+<li>JavaScript;</li>
+<li>HTML & CSS;</li>
+<li>Git;</li>
+<li>React;</li>
+<li></li>
+
