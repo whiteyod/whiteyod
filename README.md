@@ -10,3 +10,8 @@ One of my hobbies is cybersecurity. I like working with servers, creating my own
 <li>Git;</li>
 <li>React;</li>
 
+
+
+
+
+<img src="	/assets/images/electrocat.png">
