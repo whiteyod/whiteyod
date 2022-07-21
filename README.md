@@ -9,9 +9,5 @@ One of my hobbies is cybersecurity. I like working with servers, creating my own
 <li>HTML & CSS;</li>
 <li>Git;</li>
 <li>React;</li>
-
-
-
-
-
-<img src="https://github.com/whiteyod/whiteyod/photo1658106827.jpeg">
+<hr>
+<img src="https://github.com/whiteyod/whiteyod/blob/main/photo1658106827.jpeg">
