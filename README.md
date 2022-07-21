@@ -14,4 +14,4 @@ One of my hobbies is cybersecurity. I like working with servers, creating my own
 
 
 
-<img src="	/assets/images/electrocat.png">
+<img src="https://github.com/whiteyod/whiteyod/photo1658106827.jpeg">
